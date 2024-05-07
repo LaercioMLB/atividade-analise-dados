@@ -1,0 +1,72 @@
+old;new
+Access to electricity (% of population)_EG.ELC.ACCS.ZS;acesso_eletricidade
+ccess to electricity, rural (% of rural population)_EG.ELC.ACCS.RU.ZS;acesso_eletricidade_rural
+ccess to electricity, urban (% of urban population)_EG.ELC.ACCS.UR.ZS;acesso_eletricidade_urbano
+ife expectancy at birth, total (years)_SP.DYN.LE00.IN;expectativa_vida_geral
+ife expectancy at birth, male (years)_SP.DYN.LE00.MA.IN;expectativa_vida_homens
+ife expectancy at birth, female (years)_SP.DYN.LE00.FE.IN;expectativa_vida_mulheres
+Literacy rate, youth total (% of people ages 15-24)_SE.ADT.1524.LT.ZS;taxa_alfabetizacao_15_a_24_total
+Literacy rate, youth male (% of males ages 15-24)_SE.ADT.1524.LT.MA.ZS;taxa_alfabetizacao_15_a_24_homens
+Literacy rate, youth female (% of females ages 15-24)_SE.ADT.1524.LT.FE.ZS;taxa_alfabetizacao_15_a_24_mulheres
+Literacy rate, adult total (% of people ages 15 and above)_SE.ADT.LITR.ZS;taxa_alfabetizacao_adultos
+Literacy rate, adult male (% of males ages 15 and above)_SE.ADT.LITR.MA.ZS;taxa_alfabetizacao_adulto_homens
+Literacy rate, adult female (% of females ages 15 and above)_SE.ADT.LITR.FE.ZS;taxa_alfabetizacao_adulto_mulheres
+Mortality caused by road traffic injury (per 100,000 population)_SH.STA.TRAF.P5;taxa_mortalidade_acidente_transito
+Mortality rate, infant (per 1,000 live births)_SP.DYN.IMRT.IN;taxa_mortalidade_infantil
+Mortality rate, neonatal (per 1,000 live births)_SH.DYN.NMRT;taxa_mortalidade_neonatal
+Mortality rate, under-5 (per 1,000 live births)_SH.DYN.MORT;taxa_mortalidade_menor_5_anos
+Suicide mortality rate (per 100,000 population)_SH.STA.SUIC.P5;taxa_suicidio
+Total tax and contribution rate (% of profit)_IC.TAX.TOTL.CP.ZS;total_imposto_sobre_lucro
+PIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)_IQ.CPA.TRAN.XQ;indice_transparencia_estado
+Electric power consumption (kWh per capita)_EG.USE.ELEC.KH.PC;consumo_energia
+CO2 emissions from gaseous fuel consumption (% of total)_EN.ATM.CO2E.GF.ZS;taxa_emissao_co2_
+People using safely managed sanitation services (% of population)_SH.STA.SMSS.ZS;taxa_populacao_acesso_saneamento
+Agricultural land (sq. km)_AG.LND.AGRI.K2;terra_agriculturavel
+Agricultural land (% of land area)_AG.LND.AGRI.ZS;proporcao_terra_agriculturavel
+Agricultural irrigated land (% of total agricultural land)_AG.LND.IRIG.AG.ZS;proporcao_agricultura_irrigada
+Adolescents out of school (% of lower secondary school age)_SE.SEC.UNER.LO.ZS;adolescentes_fora_escola
+Adolescents out of school, female (% of female lower secondary school age)_SE.SEC.UNER.LO.FE.ZS;adolescentes_fora_escola_mulheres
+Adolescents out of school, male (% of male lower secondary school age)_SE.SEC.UNER.LO.MA.ZS;adolescentes_fora_escola_homens
+Children out of school (% of primary school age)_SE.PRM.UNER.ZS;criancas_fora_escola
+Exclusive breastfeeding (% of children under 6 months)_SH.STA.BFED.ZS;aleitamento_materno_ate_seis_meses
+Prevalence of current tobacco use (% of adults)_SH.PRV.SMOK;consumo_tabaco
+Prevalence of current tobacco use, females (% of female adults)_SH.PRV.SMOK.FE;consumo_tabaco_mulheres
+revalence of current tobacco use, males (% of male adults)_SH.PRV.SMOK.MA;consumo_tabaco_homens
+Prevalence of moderate or severe food insecurity in the population (%)_SN.ITK.MSFI.ZS;inseguranca_alimentar
+Prevalence of undernourishment (% of population)_SN.ITK.DEFC.ZS;subnutricao
+Unemployment, total (% of total labor force) (national estimate)_SL.UEM.TOTL.NE.ZS;desmprego
+Armed forces personnel (% of total labor force)_MS.MIL.TOTL.TF.ZS;contingente_forcas_armadas
+Population, total_SP.POP.TOTL;populacao_total
+Population, male_SP.POP.TOTL.MA.IN;populacao_homens
+Population, female_SP.POP.TOTL.FE.IN;populacao_mulheres
+Population ages 65 and above, total_SP.POP.65UP.TO;populacao_maior_65
+Population ages 15-64, total_SP.POP.1564.TO;populacao_15_64
+Population ages 0-14, total_SP.POP.0014.TO;populacao_0_14
+Renewable energy consumption (% of total final energy consumption)_EG.FEC.RNEW.ZS;consumo_energia_renovavel
+Refugee population by country or territory of origin_SM.POP.REFG.OR;populacao_refugiada
+Time required to register property (days)_IC.PRP.DURS;tempo_registro_propriedade
+Time required to start a business (days)_IC.REG.DURS;tempo_abertura_empresa
+Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)_SH.ALC.PCAP.FE.LI;consumo_alcool_mulheres
+Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)_SH.ALC.PCAP.MA.LI;consumo_alcool_homens
+Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)_SH.ALC.PCAP.LI;consumo_alcool
+Rural land area (sq. km)_AG.LND.TOTL.RU.K2;area_rural
+Rural population_SP.RUR.TOTL;populacao_rural
+Urban population_SP.URB.TOTL;populacao_urbana
+Urban population growth (annual %)_SP.URB.GROW;crescimento_populacao_urbana
+Population growth (annual %)_SP.POP.GROW;crescimento_populacao
+Population density (people per sq. km of land area)_EN.POP.DNST;densidade_populacional
+Number of infant deaths_SH.DTH.IMRT;mortalidade_infantil
+Number of maternal deaths_SH.MMR.DTHS;mortalidade_materna
+Number of under-five deaths_SH.DTH.MORT;mortalidade_infantil_ate_cinco_anos
+Number of neonatal deaths_SH.DTH.NMRT;mortalidade_neonatal
+Government expenditure on education, total (% of GDP)_SE.XPD.TOTL.GD.ZS;gastos_governo_educacao
+Fixed broadband subscriptions_IT.NET.BBND;acesso_banda_larga
+Government expenditure per student, primary (% of GDP per capita)_SE.XPD.PRIM.PC.ZS;gasto_estudante_primario
+Government expenditure per student, secondary (% of GDP per capita)_SE.XPD.SECO.PC.ZS;gasto_estudante_secundario
+Domestic general government health expenditure per capita (current US$)_SH.XPD.GHED.PC.CD;gasto_governo_saude
+CO2 emissions (kg per PPP $ of GDP)_EN.ATM.CO2E.PP.GD;emissao_co2
+GDP (constant LCU)_NY.GDP.MKTP.KN;pib
+GDP growth (annual %)_NY.GDP.MKTP.KD.ZG;crescimento_pib
+GDP per capita (constant LCU)_NY.GDP.PCAP.KN;pib_per_capita
+Military expenditure (% of GDP)_MS.MIL.XPND.GD.ZS;gasto_governo_forcas_armadas
+Inflation, GDP deflator (annual %)_NY.GDP.DEFL.KD.ZG;taxa_inflacao
